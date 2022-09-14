@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  body {
+    background-color:rgb(233, 231, 71);
+  }
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+  }
+  .form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    box-shadow: 2px 4px 10px rgb(34, 30, 30);
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 16px;
+  }
+
+
